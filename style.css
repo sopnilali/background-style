@@ -1,0 +1,14 @@
+.heading{
+    font-size: 40px;
+    text-align: center;
+}
+.container{
+    height: 600px;
+    border: 2px solid red;
+}git push -u origin main
+.container2{
+    height: 100%;
+    background-image: url("./img/Graphic\ Design.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
